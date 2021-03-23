@@ -1,1 +1,2 @@
 Este es mi nuevo proyecto
+console.log(“hello word”)
